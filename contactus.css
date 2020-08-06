@@ -1,0 +1,21 @@
+div.container {
+	position: relative;
+	top: 17em;
+    margin: 20px auto;
+	max-width: 800px;
+	min-width: 320px;
+}
+
+div.inner {
+	box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+	padding: 5px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	margin-left: 4em;
+}
